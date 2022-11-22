@@ -1,0 +1,57 @@
+1. Add these lines in API method at very start
+
+Request.Headers.TryGetValue("Authorization", out var headerValue);
+var tokenvalue = headerValue.ToString().Replace("Bearer ","");
+int  userid = GetUserID(tokenvalue);
+string rolename=GetRoleName(tokenvalue);
+
+2. Add these methos in ur controller class
+
+
+public int GetUserID(string token)
+        {
+            var claimsPrincipal = GetPrincipal(token);
+            int id = Convert.ToInt32(claimsPrincipal.FindFirstValue(ClaimTypes.NameIdentifier));
+
+         return id;
+        }
+
+        public string GetRoleName(string token)
+        {
+            var claimsPrincipal = GetPrincipal(token);
+            string role =claimsPrincipal.FindFirstValue(ClaimTypes.Role);
+            return role;
+        }
+
+
+ public static ClaimsPrincipal GetPrincipal(string token)
+        {
+            try
+            {
+                var tokenHandler = new JwtSecurityTokenHandler();
+                var jwtToken = tokenHandler.ReadToken(token) as JwtSecurityToken;
+
+                if (jwtToken == null)
+                    return null;
+
+                var symmetricKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("13081612020615030711"));
+                ;
+
+                var validationParameters = new TokenValidationParameters()
+                {
+                    RequireExpirationTime = true,
+                    ValidateIssuer = false,
+                    ValidateAudience = false,
+                    IssuerSigningKey = symmetricKey
+                };
+
+                SecurityToken securityToken;
+                var principal = tokenHandler.ValidateToken(token, validationParameters, out securityToken);
+
+                return principal;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+        }

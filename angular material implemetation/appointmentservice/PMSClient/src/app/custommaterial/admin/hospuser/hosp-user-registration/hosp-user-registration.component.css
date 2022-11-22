@@ -1,0 +1,114 @@
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  color:  #F4F3F3;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  font-family: Montserrat,sans-serif;
+
+
+}
+mat-form-field
+{
+    width: 100%;
+}
+
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  form
+  {
+    height: 500px;
+    width: 300px;
+
+  }
+
+/*   
+.example-radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    align-items: flex-start;
+  }
+   */
+  .example-radio-button {
+    margin: 5px;
+  }
+
+  .example-container {
+    /* min-width: 150px;
+    max-width: 500px; */
+
+    margin: auto;
+
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  td {
+    padding-right: 8px;
+  }
+
+  
+.dob{
+    position: relative;
+    top: -20px;
+}
+
+.dateicon::-webkit-calendar-picker-indicator {
+    color: rgba(0, 0, 0, 0);
+    opacity: 1;
+    display: block;
+    background-repeat:  no-repeat;
+    width: 25px;
+    height: 25px;
+    border-width: thin
+}
+
+.btnsubmit
+{
+  background-image: linear-gradient(#0dccea, #0d70ea);
+  border: 0;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: Montserrat,sans-serif;
+  font-size: .9em;
+  margin: 5px;
+  padding: 10px 15px;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  justify-content: center;
+
+
+}
+
+.btnclose
+{
+  background-image: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: Montserrat,sans-serif;
+  font-size: .9em;
+  margin: 5px;
+  padding: 10px 15px;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  justify-content: center;
+
+}

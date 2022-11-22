@@ -1,0 +1,116 @@
+<main>
+    <div class="container">
+        <section class="section register minlength-vh-100 d-flex flex-column align-items-left ">
+            <div class="container">
+                <div class="row m-5">
+                    <div class=" d-flex flex-column align-items-left ">
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <div class="pt-4 pb-2">
+                                    <h4 class="card-title text-center pb-0 fs-4">Patient Diagnosis</h4>
+                                </div>
+                                <form [formGroup]="patientDiagnosisForm" (ngSubmit)="onSubmit()"
+                                    class="row g-3 needs-validation" novalidate col-md-4>
+
+                                    <!-- <div class="col-12 float-sm-left">
+                                        <label>
+                                         Diagnosis Code :
+                                        </label>&nbsp;&nbsp;&nbsp;
+                                          <select (ngModelChange)="onDropdownChange($event)"  formControlName="diagnosisCode" name="diagnosisCode" id="diagnosisCode" style="width: 200px; ;">
+                                             <option>--Select--</option>
+                                              <option *ngFor="let item of result" [value]="item.allergyType">{{item.allergyType}}</option>
+                                          </select>
+                          
+                                          <div>
+                                           
+                                          <small *ngIf= "patientDiagnosisForm.controls['diagnosisCode'].dirty && patientDiagnosisForm.hasError('required','diagnosisCode')">Kindly select from the Allergy Type</small>
+                                        </div>
+                                          <br>
+                                       <label>
+                                           Diagnosis Description :
+                                      </label>&nbsp;
+           
+                                        <select (ngModelChange)="onChange($event)"  formControlName="diagnosisDesc" name="diagnosisDesc" id="diagnosisDesc" style="width: 200px; ;">
+                                               <option>--Select--</option>
+                                              <option [value]="diagnosis_Desc">{{diagnosis_Desc}}</option>
+                                          </select>
+                                          
+                                          
+                                        <div>
+                                         <div class="invalid-feedback" *ngIf="patientDiagnosisForm.hasError('required','diagnosisDesc')" >Please select from the Diagnosis Name</div> 
+                                          <small *ngIf= "patientDiagnosisForm.controls['allergyname'].dirty && patientDiagnosisForm.hasError('required','diagnosisDesc')">Kindly select from the Diagnosis Name</small>
+                                        </div><br>
+                                    </div> -->
+
+
+
+                                    
+                                    <div class="col-12 form-group"  *ngFor="let x of sections">
+                                        <h5 style="font-weight: bold;">Diagnosis number {{x.secCount}}</h5>
+                                        
+                                        <ul>
+                                            <li class="m-3">
+                                                <!-- <div class="col-12 float-sm-left"> -->
+                                                    <label for="diagnosisCode" class="form-label">
+                                                     Diagnosis Code :
+                                                    </label>&nbsp;&nbsp;&nbsp;
+                                                      <select (ngModelChange)="onDropdownChange($event)"  formControlName="diagnosisCode" name="diagnosisCode" id="diagnosisCode" style="width: 200px; ;">
+                                                         <option>--Select--</option>
+                                                          <option *ngFor="let item of result" [value]="item.diagnosisCode">{{item.diagnosisCode}}</option>
+                                                      </select>
+                                      
+                                                      <div>
+                                                       
+                                                      <small *ngIf= "patientDiagnosisForm.controls['diagnosisCode'].dirty && patientDiagnosisForm.hasError('required','diagnosisCode')">Kindly select from the Allergy Type</small>
+                                                    </div>
+                                                      <br></li>
+                                                      <li class="m-3">
+                                                   <label for="diagnosisDesc" class="form-label">
+                                                       Diagnosis Description :
+                                                  </label>&nbsp;
+                       
+                                                    <select (ngModelChange)="onChange($event)"  formControlName="diagnosisDesc" name="diagnosisDesc" id="diagnosisDesc" style="width: 200px; ;">
+                                                           <option>--Select--</option>
+                                                          <option [value]="diagnosis_Desc">{{diagnosis_Desc}}</option>
+                                                      </select>
+                                                      
+                                                      
+                                                    <div>
+                                                     <div class="invalid-feedback" *ngIf="patientDiagnosisForm.hasError('required','diagnosisDesc')" >Please select from the Diagnosis Name</div> 
+                                                      <small *ngIf= "patientDiagnosisForm.controls['diagnosisDesc'].dirty && patientDiagnosisForm.hasError('required','diagnosisDesc')">Kindly select from the Diagnosis Name</small>
+                                                    </div><br>
+                                                
+                                            </li>
+
+                                            <li class="m-3">Is Depricated? 
+                                                <input type="radio" formControlName ="isDeprecated" id="isDeprecated" name="isDeprecated" [value]="true" [(ngModel)]="isDepricated"> Yes &nbsp;
+                                                <input type="radio" formControlName ="isDeprecated" id="isDeprecated" name="isDeprecated" [value]="false" [(ngModel)]="isDepricated"> No &nbsp;
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-6 row">
+                                        <button class="btn btn-light w-100 m-3" (click)="addDiagnosis()">+ Add New Diagnosis</button>
+                                        <br/>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-6">
+                                            <button class="btn btn-primary w-100" (click)="edit()">Edit</button>
+
+                                        </div>
+                                        <div class="col-6">
+                                            <input type="submit" class="btn btn-primary w-100" 
+                                                value="Save">
+
+                                        </div>
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</main>

@@ -1,0 +1,126 @@
+<app-header></app-header>
+<!-- <app-sidebar></app-sidebar> -->
+
+
+<main id="main" class="main">
+    <section class="section offset-md-1">
+      <!-- <h4 style="color:black ;margin-bottom: 20px;">This Week Appointments</h4> -->
+       <div class="row">
+          <!-- <div class="col-lg-4">
+             <div class="card">
+               <div class="card-body">
+                  <h5 class="card-title">Calender</h5>
+                  <div class="d-flex align-items-center">
+                     <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" > 
+                        <a routerLink="/form-elements"><i class="bi bi-calendar-week-fill text-danger" >View Calender</i></a>
+                     </div>
+                     <div class="ps-3">
+                        <span class="text-danger small pt-1 fw-bold" style="font-size:30px ;"data-bs-toggle="tooltip" data-bs-placement="right" title="Today's No of appointments">12</span>
+                     </div>
+                  </div>
+               </div>
+             </div>
+          </div> -->
+          <!--<div class="col-lg-4">
+            <div class="card">
+              <div class="card-body">
+                 <h5 class="card-title">Upcoming Days 
+                 
+                  </h5>
+                 <div class="d-flex align-items-center">
+                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" > 
+                       <a routerLink="/form-elements"><i class="bi bi-calendar-x-fill" ></i></a>
+                    </div>
+                    <div class="ps-3">
+                       <span class="text-primary small pt-1 fw-bold" style="font-size:30px ;" data-bs-toggle="tooltip" data-bs-placement="right" title="This Week's upcoming appointments">12</span>
+                    </div>
+                 </div>
+              </div>
+            </div>
+         </div> -->
+         <div class="col-lg-4">
+         <div class="card">
+            <div class="card-body">
+              <h5 class="card-title d-flex justify-content-center">Calender</h5>
+              <!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+              <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+              <a  routerLink="../Calender" class="text-success small pt-1  " style="font-size:15px" > View Calender</a><br>
+              
+              <a  routerLink="../Appointment-creation" class="text-success small pt-1 " style="font-size:15px" >Book Appointments</a>
+            </div>
+          </div>
+         </div>
+         <div class="col-lg-4">
+            <div class="card">
+               <a routerLink="/appointmentlist">
+              <div class="card-body">
+                 <h5 class="card-title d-flex justify-content-center"><i class="bi bi-calendar2-check-fill text-success" ></i>Upcoming  Appointments</h5>
+                 <div class="d-flex align-items-center">
+                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center" > 
+                       
+                    </div>
+                    <div class="ps-3">
+                       <span class="text-success small pt-1 fw-bold" data-bs-toggle="tooltip" data-bs-placement="left" title="This Week's completed appointments">You have 3 upcoming appointments</span>
+                    </div>
+                 </div>
+              </div>
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-4">
+            <div class="card">
+               <a routerLink="/notes">
+               <div class="card-body">
+                  <h5 class="card-title d-flex justify-content-center">Notes</h5>
+                  <div class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center" > 
+                    <i class="bx bxs-message-add" data-bs-toggle="tooltip" data-bs-placement="top" title="Click to send new note" ></i>
+                  </div>
+               </div>
+               </a>
+            </div>
+         </div>
+         
+         <div class="col-lg-4">
+            <div class="card" style=" border-radius: 60px;">
+               <div class="card-body">
+                 <h5 class="card-title d-flex justify-content-center">Patient Details</h5>
+                 <!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+                 <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+                 <a  routerLink="/patientdetails" class="text-success small pt-1  " style="font-size:15px" > View Patient Details</a><br>
+                 
+                 <a routerLink="/emergencycontact" class="text-success small pt-1 " style="font-size:15px" >Emergency Contact</a>
+               </div>
+             </div>
+            </div>
+        <div class="col-lg-4 card1">
+         <div class="card">
+            <div class="card-body">
+               <h5 class="card-title d-flex justify-content-center">Patients Visits</h5>
+               <div class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center" > 
+                  <a routerLink="/pages-inbox/receivednotes"><i class="ri ri-notification-2-fill" data-bs-toggle="tooltip" data-bs-placement="top" title="Click to view received notes"></i></a>
+               </div>
+            </div>
+         </div>
+      </div>
+
+
+      <div class="col-lg-4 card1 ">
+      <div class="card">
+         <div class="card-body">
+           <h5 class="card-title d-flex justify-content-center">Point to Reach</h5>
+           <!-- <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> -->
+           <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+           <a  routerLink="../Calender" class="text-success small pt-1  " style="font-size:15px" > Contact Us</a><br>
+           
+           <a  href="#" class="text-success small pt-1 " style="font-size:15px" >About Us</a>
+         </div>
+       </div>
+      </div>
+          
+     </div>
+     
+    </section>
+ </main>
+
+ 
+ <app-footer class="footer"></app-footer>

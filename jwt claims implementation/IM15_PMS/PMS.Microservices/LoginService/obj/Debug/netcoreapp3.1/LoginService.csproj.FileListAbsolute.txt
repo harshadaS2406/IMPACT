@@ -1,0 +1,547 @@
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\source\repos\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.AssemblyReference.cache
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\PrathmeshR\Desktop\Pms\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\harsh\OneDrive\Desktop\last\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\last\experiment with int\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\Friday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\Monday_V1\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\Monday_final\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.exe
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.deps.json
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.runtimeconfig.dev.json
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.Manifest.cache
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\staticwebassets\LoginService.StaticWebAssets.xml
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoginService.styles.css
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.dll
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.pdb
+C:\Users\harsh\OneDrive\Desktop\wednesday\IM15_PMS\PMS.Microservices\LoginService\obj\Debug\netcoreapp3.1\LoginService.genruntimeconfig.cache

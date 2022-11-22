@@ -1,0 +1,115 @@
+<app-header>
+</app-header>
+
+<!-- <app-sidebar></app-sidebar> -->
+
+<main id="main" class="main">
+
+
+
+    <section class="section">
+  
+    <div class="container">
+       <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
+          <div class="container">
+             <div class="row justify-content-center">
+                <div class="col-md-12 col-md-offset-3  d-flex flex-column align-items-center justify-content-center">
+                   
+                   <div class="card mb-3">
+                      <div class="card-body" >
+                         <div class="pt-4 pb-2">
+                            <h4 class="card-title text-center pb-0 fs-4">Patient Emergency Contact</h4>
+                            <!-- <p class="text-center small">Enter your username & password to login</p> -->
+                         </div>
+                         
+                         
+                       <form [formGroup]="emergencydetails" class="row g-3 needs-validation"  (ngSubmit)= "pemergencydetails()">
+                           
+                            <div class="col-12 float-sm-left">
+                              
+                              
+                               <div class="col-12 float-sm-left">
+                                 <label for="firstName" class="form-label">First Name</label>
+                                   <input type="text"  name="firstName" class="form-control" id="firstName"formControlName="firstName"  placeholder="Enter your First Name" required>
+                                   <div class="invalid-feedback" *ngIf= "emergencydetails.hasError('required','firstName')">Please Enter firstName!</div>&nbsp;
+
+                                   <small *ngIf= "emergencydetails.controls['firstName'].dirty && emergencydetails.hasError('required','firstName')">Enter firstName!</small>
+                               </div>
+                            </div>
+                            <div class="col-12 float-sm-left">
+                               <label for="lastName" class="form-label">Last Name</label> <input type="text" name="lastName" class="form-control" id="lastname" formControlName="lastName" placeholder="Enter your Last Name" required>
+                               <div class="invalid-feedback" *ngIf= " emergencydetails.hasError('required','lastName')">Please enter your last Name!</div>&nbsp;
+
+                               <small *ngIf= "emergencydetails.controls['lastName'].dirty && emergencydetails.hasError('required','lastName')">Please enter your last Name!</small>
+
+                            </div>
+                            
+                            <div class="col-12">
+                               <label for="contact" class="form-label">Contact No</label> 
+                               <input type="number" name="contact" class="form-control" id="contact" formControlName="contact" placeholder="Enter your Contact" required>
+                               <!-- <div class="invalid-feedback" *ngIf= " emergencydetails.hasError('required','contact')">Please enter your Contact!</div> -->
+                               <div class="invalid-feedback" *ngIf= " emergencydetails.hasError('required','contact')">Please enter Contact Number</div>&nbsp;
+
+                                <small *ngIf= "emergencydetails.controls['contact'].dirty && emergencydetails.hasError('required','contact')">Please enter Contact Number</small> 
+                            </div>
+                            <div class="col-12">
+                                 <label for="email" class="form-label">Email</label> <input type="email" name="email" class="form-control" id="email"  formControlName="email"  placeholder="Enter your Email" required>
+                                 <!-- <div class="invalid-feedback" *ngIf= "emergencydetails.hasError('required','email')">Please enter Email!</div> -->
+                                 <div class="invalid-feedback" *ngIf= " emergencydetails.hasError('required','email')">Please enter Contact Number</div>&nbsp;
+
+                                 <small *ngIf= "emergencydetails.controls['email'].dirty && emergencydetails.hasError('required','email')">Please enter your email address</small>
+                       
+                              </div>
+                              <div class="col-12">
+                                 <label for="relation" class="form-label">Relationship</label>&nbsp; 
+                                 <select (change)="selectRelationDrop($event)" formControlName="relation" name="relation" id="relation" style="width: 85px; ;">
+                                    <option>--Select--</option>
+                                   <option *ngFor="let i of relation" value="{{i}}">{{i}}</option>
+                               </select>
+                               
+                                 <!-- <select name="relation" id="relation">
+                                  <option value="father">Father</option>
+                                  <option value="mother">Mother</option>
+                                  <option value="brother">Brother</option>
+                                  <option value="sister">Sister</option>
+                                  <option value="guardian">Guardian</option> -->
+                                
+                                 <div class="invalid-feedback" *ngIf= " emergencydetails.hasError('required','relation')">Please select Relationship!</div>&nbsp;
+                                  <small *ngIf= "emergencydetails.controls['relation'].dirty && emergencydetails.hasError('required','relation')">Kindly select the Relation</small>
+                                 
+                              </div><br>
+                            
+                            <div class="col-12">
+                              <div>
+                                 <label for="address" class="form-label">Address</label>&nbsp;
+                              </div>
+                               <textarea id="address" formControlName="address" name="address" rows="4" cols="50" required></textarea>
+                               <div class="invalid-feedback" *ngIf= " emergencydetails.hasError('required','address')">Please Enter address!</div>&nbsp;
+
+                               <small *ngIf= "emergencydetails.controls['address'].dirty && emergencydetails.hasError('required','address')">Enter address!</small>
+
+                            </div>
+                            
+                              <div class="col-16" style="font-size: medium;">
+                                 <label for="isFatal" class="form-label" >Need access to patient?</label>&nbsp;
+                                  <input type="checkbox"  formControlName="isFatal" name="isFatal"  id="isFatal">
+                              </div>
+ 
+                            <div class="col-12">
+                            <!-- <button class="btn btn-primary mx-1 w-20" type="button" (click)=" onNext()">Next Section</button>
+                            <button class="btn btn-primary btn-space mx-2 w-25" (click)="onPrevious()"type="button">Back</button> -->
+                            <button class="btn btn-primary btn-space mx-2 w-15"   type="submit">Save</button>
+                            </div>
+       
+                         </form>
+                      </div>
+                   </div>
+                   
+                </div>
+             </div>
+          </div>
+       </section>
+    </div>
+    </section>
+ 
+

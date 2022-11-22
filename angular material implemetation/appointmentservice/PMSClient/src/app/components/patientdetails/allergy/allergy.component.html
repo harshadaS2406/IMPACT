@@ -1,0 +1,94 @@
+
+<app-header></app-header>
+<!-- <app-sidebar></app-sidebar> -->
+<main id="main" class="main">
+    <section class="section">
+    <div class="container">
+       <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
+          <div class="container">
+             <div class="row justify-content-center">
+                <div class="col-md-12 col-md-offset-3  d-flex flex-column align-items-center justify-content-center">
+                   <div class="card mb-3">
+                      <div class="card-body" style="width: 800px;">
+                         <div class="pt-4 pb-2">
+                            <h4 class="card-title text-center pb-0 fs-4">Patient Allergy Details</h4>
+                            <!-- <p class="text-center small">Enter your username & password to login</p> -->
+                         </div>
+                         <br>
+                         <form class="row g-3 needs-validation" [formGroup]="allergydetails" class="row g-3 needs-validation" (ngSubmit)= "pallergydetails()">
+                            <div class="col-12 float-sm-left">
+                                <label>
+                                    Allergy Type :
+                                </label>&nbsp;&nbsp;&nbsp;
+                                  <select (ngModelChange)="onDropdownChange($event)"  formControlName="allergytype" name="allergytype" id="allergytype" style="width: 200px; ;">
+                                     <option>--Select--</option>
+                                      <option *ngFor="let item of result" [value]="item.allergyType">{{item.allergyType}}</option>
+                                  </select>
+                  
+                                  <div>
+                                   
+                                  <small *ngIf= "allergydetails.controls['allergytype'].dirty && allergydetails.hasError('required','allergytype')">Kindly select from the Allergy Type</small>
+                                </div>
+                                  <br>
+                               <label>
+                                   Allergy Name :
+                              </label>&nbsp;
+   
+                                <select (ngModelChange)="onChange($event)"  formControlName="allergyname" name="allergyname" id="allergyname" style="width: 200px; ;">
+                                       <option>--Select--</option>
+                                      <option [value]="allergy_Name">{{allergy_Name}}</option>
+                                  </select>
+                                  
+                                  
+                                <div>
+                                 <div class="invalid-feedback" *ngIf="allergydetails.hasError('required','allergyname')" >Please select from the Allergy Name</div> 
+                                  <small *ngIf= "allergydetails.controls['allergyname'].dirty && allergydetails.hasError('required','allergyname')">Kindly select from the Allergy Name</small>
+                                </div><br>
+                            </div>
+                            <div class="col-16">
+                               <label for="allergyid"  class="form-label">Allergy Id</label> 
+                               <input type="number" [ngModel]="allergyId" formControlName="allergyid" name="allergyid" class="form-control" id="allergyid" placeholder="Enter your Allergy Id" required>
+                                <div class="invalid-feedback" >Please enter Allergy Id!</div> 
+                               <small *ngIf= "allergydetails.controls['allergyid'].dirty && allergydetails.hasError('required','allergyid')">Allergy Id cannot be empty</small>
+                            </div>
+                            <br>
+                             <!-- <div class="col-16">
+                                 <label for="fatal" class="form-label">Allergy is Fatal?</label>&nbsp;
+                                  <input type="checkbox"  name="allergyFatal"  id="allergyFatal" required checked>
+                              </div> -->
+                              <div class="col-16" style="font-size: larger;">
+                                 <label for="fatal" class="form-label" >Allergy is Fatal?</label>&nbsp;
+                                  <input type="checkbox"  formControlName="Is_Fatal" name="Is_Fatal"  id="Is_Fatal" >
+                              </div>
+                              <br>
+
+                              
+                            <div class="col-16">
+                                 <label for="description"  class="form-label">Allergy Description</label> <input type="text" [ngModel]="allergy_Desc" name="allergydesc" class="form-control" id="allergydesc" formControlName="allergydesc" placeholder="Enter Allergy Description" required>
+                                 <!-- <div class="invalid-feedback">Please enter Allergy Description</div> -->
+                                 <div class="invalid-feedback" >Please enter Allergy Description</div> 
+                                 <small *ngIf= "allergydetails.controls['allergydesc'].dirty && allergydetails.hasError('required','allergydesc')">Allergy Description cannot be empty</small><br>
+                                 <!-- <small *ngIf= "allergydetails.controls['allergydesc'].dirty && allergydetails.hasError('required','allergydesc')">Allergy Description exceeds the limit</small> -->
+                              </div>
+                              <br>
+                              <div class="col-16">
+                                 <label for="allergyclinical"  class="form-label">Allergy Clinical</label> <input type="text" [ngModel]="allergy_Clinical" name="allergyclinical" class="form-control" id="allergyclinical" formControlName="allergyclinical" placeholder="Enter Allergy Clinical Details" required>
+                                 <!-- <div class="invalid-feedback">Please enter Allergy Clinical!</div> -->
+                                 <div class="invalid-feedback" >Please enter Allergy Clinical!</div>
+                                 <small *ngIf= "allergydetails.controls['allergyclinical'].dirty && allergydetails.hasError('required','allergyclinical')">Allergy Clinical cannot be empty</small><br>
+                                 <!-- <small *ngIf= "allergydetails.controls['allergyclinical'].dirty && allergydetails.hasError('required','allergyclinical')">Allergy Description exceeds the limit</small> -->
+                              </div><br>
+
+                            <div class="col-16"> <button class="btn btn-primary w-20"  type="submit">Save</button>
+                            <!-- <button class="btn btn-primary btn-space mx-2 w-20" type="button" (click)="onPrevious()">Back</button> -->
+
+                            </div>
+                         </form>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+       </section>
+    </div>
+    </section>

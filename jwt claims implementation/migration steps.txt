@@ -1,0 +1,35 @@
+1. change connection string in all 3 projects to local db
+
+2. Keep all entity related packages on 3.1.30 version
+
+2. Add migrations by changing Default Project value
+
+add-migration inboxserv_v1
+
+add-migration inboxserv_v1 -context NotesDbContext
+update-database -Context NotesDbContext
+
+add-migration patientmodule_v1 -context PatientModuleContext
+update-database -Context PatientModuleContext
+
+
+
+  3. protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.Ignore<ApplicationUser>();
+
+            builder.Ignore<Gender>();
+
+            builder.Ignore<Status>();
+
+            builder.Ignore<ApplicationRole>();
+        }
+
+5. To list all the tables in sql
+ SELECT
+  *
+FROM
+  SYSOBJECTS
+WHERE
+  xtype = 'U';

@@ -1,0 +1,33 @@
+SET IDENTITY_INSERT [dbo].[Gender] ON
+INSERT INTO [dbo].[Gender] ([GenderID], [GenderName], [GenderCode]) VALUES (1, N'Male', N'M')
+INSERT INTO [dbo].[Gender] ([GenderID], [GenderName], [GenderCode]) VALUES (2, N'Female', N'F')
+INSERT INTO [dbo].[Gender] ([GenderID], [GenderName], [GenderCode]) VALUES (3, N'Other', N'O')
+SET IDENTITY_INSERT [dbo].[Gender] OFF
+
+
+SET IDENTITY_INSERT [dbo].[Roles] ON
+INSERT INTO [dbo].[Roles] ([RoleID], [RoleName]) VALUES (1, N'Admin')
+INSERT INTO [dbo].[Roles] ([RoleID], [RoleName]) VALUES (2, N'Doctor')
+INSERT INTO [dbo].[Roles] ([RoleID], [RoleName]) VALUES (3, N'Nurse')
+INSERT INTO [dbo].[Roles] ([RoleID], [RoleName]) VALUES (4, N'Patient')
+SET IDENTITY_INSERT [dbo].[Roles] OFF
+
+
+SET IDENTITY_INSERT [dbo].[Status] ON
+INSERT INTO [dbo].[Status] ([StatusID], [StatusName], [StatusCode]) VALUES (1, N'Active', N'A')
+INSERT INTO [dbo].[Status] ([StatusID], [StatusName], [StatusCode]) VALUES (2, N'Inactive', N'I')
+INSERT INTO [dbo].[Status] ([StatusID], [StatusName], [StatusCode]) VALUES (3, N'Blocked', N'B')
+INSERT INTO [dbo].[Status] ([StatusID], [StatusName], [StatusCode]) VALUES (4, N'Unblocked', N'UB')
+SET IDENTITY_INSERT [dbo].[Status] OFF
+
+
+SET IDENTITY_INSERT [dbo].[Users] ON
+INSERT INTO [dbo].[Users] ([Title], [UserName],[FirstName], [LastName], [EmailId], [GenderID], [RoleID], [StatusID], [Address], [DOB], [Password], [ContactNo], [LastLogin], [LoginAttempts], [created_by], [created_on], [updated_by], [updated_on])
+VALUES 
+( 'Mr', N'georgel', N'George', N'Lucas', N'george.lucas@gmail.com', 1, 2, 1, N'Astoria,NY', N'1988-09-13 00:00:00', N'password_123', N'9920442579', N'2022-11-06 02:20:00', 0, 1, N'2022-11-06 00:00:00', 1, N'2021-11-06 00:00:00')
+SET IDENTITY_INSERT [dbo].[Users] OFF
+
+
+
+
+

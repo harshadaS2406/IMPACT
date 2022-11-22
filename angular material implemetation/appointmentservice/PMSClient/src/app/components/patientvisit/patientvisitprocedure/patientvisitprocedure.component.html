@@ -1,0 +1,67 @@
+
+<main>
+    <div class="container">
+        <section class="section register minlength-vh-100 d-flex flex-column align-items-left ">
+            <div class="container">
+                <div class="row m-5">
+                    <div class=" d-flex flex-column align-items-left ">
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <div class="pt-4 pb-2">
+                                    <h4 class="card-title text-center pb-0 fs-4">Patient Procedure</h4>
+                                </div>
+                                <form [formGroup]="patientProcedureForm" (ngSubmit)="onSubmit()"
+                                    class="row g-3 needs-validation" novalidate col-md-4>
+                                    
+                                    <div class="col-12 form-group"  *ngFor="let x of sections">
+                                        <h5 style="font-weight: bold;">Procedure number {{x.secCount}}</h5>
+                                        <ul>
+                                            <li class="m-3">
+                                                <label for="procedureCode" class="form-label">Procedure Code - </label>
+                                                <div class="w-50 has-validation">
+                                                    <input type="text"  formControlName="procedureCode"
+                                                        class="form-control" #procedureCode>
+                                                </div>
+                                            </li>
+
+                                            <li class="m-3">
+                                                <label for="procedureDesc" class="form-label">Procedure Description - </label>
+                                                <div class="w-50 has-validation">
+                                                    <select type="text" formControlName="procedureDesc"
+                                                        class="form-control" #procedureDesc>
+                                                    </select>
+                                                </div>
+                                            </li>
+
+                                            <li class="m-3">Is Depricated? 
+                                                <input type="radio" formControlName ="hasAllergy" id="hasAllergy" name="hasAllergy" value="true"> Yes &nbsp;
+                                                <input type="radio" formControlName ="hasAllergy" id="noAllergy" name="hasAllergy" value="false"> No &nbsp;
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-6 row">
+                                        <button class="btn btn-light w-100 m-3" (click)="addProcedure()">+ Add New procedure</button>
+                                        <br/>
+                                    </div>
+                                    <div class="form-group row">
+                                        <div class="col-6">
+                                            <button class="btn btn-primary w-100" (click)="edit()">Edit</button>
+
+                                        </div>
+                                        <div class="col-6">
+                                            <input type="submit" class="btn btn-primary w-100" 
+                                                value="Save">
+
+                                        </div>
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</main>

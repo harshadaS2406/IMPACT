@@ -1,0 +1,40 @@
+<header id="header" class="header fixed-top d-flex align-items-center"  style="background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);">
+    <div class="d-flex align-items-center justify-content-between"> 
+        <a routerLink="/pages-home" class="logo d-flex align-items-center"> 
+        <img src="assets/img/HospitalLogo.png" alt=""> 
+        <span class="d-none d-lg-block">CTGH</span> 
+    </a>
+        <!-- <i  class="bi bi-list toggle-sidebar-btn"></i> -->
+     </div>
+    <nav class="header-nav ms-auto">
+       <ul class="d-flex align-items-center ">
+        <li class="nav-item">
+            <b class="header2" >Welcome {{"arthur"}}
+                <img src="assets/img/UserPng1.png" style="height: 35px; margin-right:5px;" alt="loginImg">
+            </b>
+        </li>
+    
+        <li class="nav-item" style="margin-right:5px">
+            <button  type="button" class="btn btn-sm btn-secondary ">Logout</button>
+        </li>
+          
+       </ul>
+    </nav>
+ </header>
+
+ <mat-toolbar>
+    <span>User Management</span>
+   <span class="example-spacer"></span>
+   <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with person icon">
+     <mat-icon>person</mat-icon>
+   </button>
+   <button mat-icon-button class="example-icon" aria-label="Example icon-button with logout icon">
+    <mat-icon>logout</mat-icon>
+  </button>
+  </mat-toolbar>
+    <mat-tab-group mat-stretch-tabs="true" mat-align-tabs="center" [selectedIndex]="0">
+      <mat-tab label="Hospital Users"><app-hospuser></app-hospuser></mat-tab>
+      <mat-tab label="Patient Users"><app-patienuser></app-patienuser></mat-tab>
+    </mat-tab-group>
+     
+    

@@ -1,0 +1,156 @@
+<app-header></app-header>
+
+<main id="main" class="main">
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center text-decoration-underline">Upcoming Appointments</h5>
+                        <div class="d-flex">
+                            <div class="col-lg-12">
+                                <span class="dot1"></span>&nbsp;
+                                <span class="text-decoration-underline">Today's Appointment</span>
+                            </div>
+                        </div>
+
+                        <table class="table datatable">
+                            <thead>
+                                <tr>
+                                    <th scope="col">SNo.</th>
+                                    <th scope="col">Title</th>
+                                    <th scope="col">Patient</th>
+                                    <th scope="col">Physician</th>
+                                    <th scope="col">Description</th>
+                                    <th scope="col">Date&Time</th>
+                                    <th scope="col">Status</th>
+                                    <!-- <th scope="col">Reason</th> -->
+                                    <th scope="col">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- <tr>
+                                    <td>1</td>
+                                    <td>Headache</td>
+                                    <td>Sourav</td>
+                                    <td>Vishnu</td>
+                                    <td>Continuous Headache</td>
+                                    <td>10/11/2022</td>
+                                    <td></td>
+                                    <td colspan="2">
+                                        <button class="btn btn-sm btn-primary">Accept</button>
+                                        <button class="btn btn-sm btn-danger" style="margin-left: 3%;">Decline</button>
+                                    </td>
+                                </tr> -->
+
+                                <tr *ngFor="let value of dataTableValues | 
+                                paginate: { itemsPerPage: 5,
+                                     currentPage: page,
+                                    totalItems: totalLength }
+                                  ;let i = index" [attr.id]="i"
+                                    [ngStyle]="{'background-color': ((value.backColor) =='yes'  ) ? 'rgb(200 238 223)' : 'white'}">
+                                    <th scope="row">{{i+1}}</th>
+                                    <td>{{value.visitTitle}}</td>
+                                    <td>{{value.patientName}}</td>
+                                    <td>{{value.doctorName}}</td>
+                                    <td>{{value.visitDescription}}</td>
+                                    <td>{{value.visitDate | date:'mediumDate'}} &nbsp;{{value.visitDate |
+                                        date:'shortTime'}}
+                                    </td>
+                                    <td>{{value.visitStatusName}}</td>
+                                    <!-- <td>{{value.reason}}</td> -->
+                                    <td style="text-align:center;">
+                                        <button><i class="bx bxs-edit" data-bs-toggle="modal"
+                                                data-bs-target="#updatemodal"
+                                                (click)="updateAppointment(value)"></i></button>
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+                        <pagination-controls class="text-center" (pageChange)="page = $event"></pagination-controls>
+
+                        <div class="modal fade" id="updatemodal" tabindex="-1">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="col-lg-11 text-center text-decoration-underline">Appointment Status
+                                        </h5>
+                                        <button type="button" class="col-lg-1 btn-close btn-sm btn-warning"
+                                            data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="col-lg-12 modal-body text-center">
+                                        <button type="button" class=" btn btn-success" *ngIf="confirmBtnVisible"
+                                            data-bs-dismiss="modal"
+                                            (click)="updateAppointmentStatus(3)">Confirm</button>
+
+                                        <button type="button" class="btn btn-danger" style="margin-left: 5px;"
+                                            data-bs-dismiss="modal" (click)="updateAppointmentStatus(2)">Cancel</button>
+
+                                        <button type="button" class=" btn btn-success" style="margin-left: 5px;"
+                                            *ngIf="completedBtVisible" data-bs-dismiss="modal"
+                                            (click)="updateAppointmentStatus(5)">Completed</button>
+
+                                        <button type="button" class="btn btn-danger" style="margin-left: 5px;"
+                                            *ngIf="noShowBtnVisible" data-bs-dismiss="modal"
+                                            (click)="updateAppointmentStatus(6)">No
+                                            Show</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="modal fade" id="postponemodal" tabindex="-1">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">Postpone Appointment</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                            aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <form>
+
+
+                                            <div class="row mb-3">
+                                                <label for="appointmentDate"
+                                                    class="col-sm-2 col-form-label">Date</label>
+                                                <div class="col-sm-4">
+                                                    <input type="date" class="form-control">
+                                                </div>
+                                                <label class="col-sm-2 col-form-label">Slots</label>
+                                                <div class="col-sm-4">
+                                                    <select class="form-select form-control"
+                                                        aria-label="Default select example">
+                                                        <option disabled selected>Select Slot</option>
+                                                        <option class="option"></option>
+                                                    </select>
+                                                </div>
+
+                                            </div>
+                                            <div class="row mb-3">
+                                                <label for="message" class="col-sm-2 col-form-label">Reason</label>
+                                                <div class="col-sm-10">
+                                                    <textarea class="form-control" name="description" rows="6"
+                                                        placeholder="Reason" required></textarea>
+                                                    <div class="error">Reason cannot be blank</div>
+                                                </div>
+                                            </div>
+                                            <div class="text-end">
+                                                <button type="submit" class="btn btn-primary"
+                                                    data-bs-dismiss="modal">Postpone Appointment</button>
+                                                <button style="margin-left: 3%;" type="reset"
+                                                    class="btn btn-secondary">Clear</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<app-footer class="footer"></app-footer>

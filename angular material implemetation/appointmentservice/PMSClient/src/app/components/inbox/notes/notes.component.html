@@ -1,0 +1,53 @@
+<app-header></app-header>
+<main id="main" class="main">
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-body">
+                        <a id="send" (click)="displayNotes('send')">
+                            <h5 class="card-title">Send Notes</h5>
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="received" (click)="displayNotes('received')">
+                        <div class="card-body">
+                            <h5 class="card-title">Received Note</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="view" (click)="displayNotes('view')">
+                        <div class="card-body">
+                            <h5 class="card-title">View Notes</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div>
+            <app-sendnotes *ngIf="isSendNote"></app-sendnotes>
+            <app-receivednotes *ngIf="isReceivedNote"></app-receivednotes>
+            <app-viewnotes *ngIf="isViewNote"></app-viewnotes>
+        </div>
+    </section>
+</main>
+<app-footer class="footer"></app-footer>

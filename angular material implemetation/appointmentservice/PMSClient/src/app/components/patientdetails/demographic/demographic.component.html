@@ -1,0 +1,141 @@
+<app-header></app-header>
+<!-- <app-sidebar></app-sidebar> -->
+<main id="main" class="main">
+    <section class="section">
+      <div class="container">
+         <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-md-12 col-md-offset-3  d-flex flex-column align-items-center justify-content-center">
+                     
+                     <div class="card mb-3">
+                        <div class="card-body" >
+                           <div class="pt-4 pb-2">
+                              <!-- <span class="material-symbols-outlined">
+                                 personal_injury
+                              </span> -->
+                                 <h4 class="card-title text-center pb-0 fs-4">Patient Details Form</h4>
+                             
+                              </div>
+                              <form class="row g-3 needs-validation" >
+                                 <!-- <div>
+                                   
+                                      <label for="title" class="form-label">Title</label> &nbsp;
+                                      <span *ngFor="let i of titles"><input type="radio"name="title" formControlName="title"value="{{i}}"(change)="radioChangeHandler($event)"><label>&nbsp;{{i}}&nbsp;&nbsp;</label>&nbsp;</span>
+                                      <div class="invalid-feedback" *ngIf= "patientdetails.hasError('required','title')">Kindly select the title</div>
+                                  <small *ngIf= "patientdetails.controls['title'].dirty && patientdetails.hasError('required','title')">Kindly select the title</small>
+                                 </div> -->
+                                 <div>
+                                    <label for="title" class="form-label">Title</label> &nbsp;
+                                    <!-- <span *ngFor="let i of Gender"><input type="radio"name="title" formControlName="title"value="{{i}}"(change)="radioChangeHandler($event)"><label>{{i}}</label>&nbsp;</span> -->
+                                     <label for="Mr" class="radio-online"><input type="radio" formControlName="title" name="title" value="Mr" id="Mr." required checked >Mr.</label>&nbsp;
+                                        <label for="Ms" class="radio-online"><input type="radio"  formControlName="title" name="title" class="radio-inline" value="Ms."  id="Ms" required >Ms.</label>&nbsp;
+                                        <label for="Mrs" class="radio-online"><input type="radio"  formControlName="title" name="title" class="radio-inline" value="Mrs."  id="Mrs" required>Mrs.</label>&nbsp;
+                                        <label for="Dr" class="radio-online"><input type="radio"  formControlName="title" name="title" class="radio-inline" value="Dr."  id="Dr" required>Dr</label>
+                                    <div class="invalid-feedback">Kindly select the title</div>
+                                <!-- <small *ngIf= "registeruser.controls['title'].dirty && registeruser.hasError('required','title')">Kindly select the title</small> -->
+                               </div>
+
+                               
+      
+                                 
+                                 <div class="col-12 float-sm-right">
+                                    <div class="col-12 float-sm-left">
+                                      <label for="firstName" class="form-label">First Name</label>
+                                        <input type="text"  name="firstName" class="form-control" id="firstName"formControlName="firstName"  placeholder="Enter your First Name" required>
+                                        <div class="invalid-feedback" >Please enter FirstName</div> 
+                                        <small >Enter firstName!</small>
+                                       </div>
+                                 </div>
+                                 <div class="col-12 float-sm-left">
+                                    <label for="lastName" class="form-label">Last Name</label> <input type="text" class="form-control" id="lastName" formControlName="lastName" placeholder="Enter your Last Name" required>
+                                    <div class="invalid-feedback" >Please enter last Name</div> 
+                                    <small >Please enter your last Name!</small>
+                                 </div>
+
+
+                                 <div class="col-12">
+                                    <label for="dateOfBirth" class="form-label">Date Of Birth</label>
+                                    <span ><input type="date" name="dob" formControlName="dob" class="form-control" id="dob" required>
+                                   </span>
+                                   <div class="invalid-feedback" >Please enter a valid date of birth</div> 
+                                    <small >Please enter a valid date of birth</small>
+                                 </div>
+                                 <div class="col-12">
+                                    <label for="contact" class="form-label">Contact No</label> 
+                                    <input type="number" name="contact" class="form-control" id="contact" formControlName="contact" placeholder="Enter your Contact" required>
+                                    <div class="invalid-feedback" >Please enter Contact Number</div> 
+                                     <small >Please enter Contact Number</small> 
+                                 </div>
+                                 <div class="col-12">
+                                    <label for="age" class="form-label">Age</label> 
+                                    <input type="number" name="age" class="form-control" id="age" formControlName="age" placeholder="Enter your age" required>
+                                    <div class="invalid-feedback" >Please Enter your Age</div> 
+                                     <small >Please Enter your age</small> 
+                                 </div>
+                                 <div class="form-group">
+                                    <div>
+                                       <label for="gender" class="form-label">Gender</label> &nbsp;
+                                       <!-- <span *ngFor="let i of Gender"><input type="radio"name="title" formControlName="title"value="{{i}}"(change)="radioChangeHandler($event)"><label>{{i}}</label>&nbsp;</span> -->
+                                        <label for="male" class="radio-online"><input type="radio" formControlName="gender" name="gender" value="Mr" id="male" required checked >Male</label>&nbsp;
+                                           <label for="female" class="radio-online"><input type="radio"  formControlName="gender" name="gender" class="radio-inline" value="Female"  id="female" required >Female</label>&nbsp;
+                                           <label for="Others" class="radio-online"><input type="radio"  formControlName="gender" name="gender" class="radio-inline" value="Others"  id="Others" required>Others</label>&nbsp;
+                                       <div class="invalid-feedback" >Kindly select the title</div>
+                                   <!-- <small *ngIf= "registeruser.controls['title'].dirty && registeruser.hasError('required','title')">Kindly select the title</small> -->
+                                  </div>
+                                     
+
+                                    <div class="col-12">
+                                       <label for="race" class="form-label">Race</label> 
+                                       <input type="text" name="race" class="form-control" id="race" formControlName="race" placeholder="Enter your race" required>
+                                       <div class="invalid-feedback" >Please enter your race!</div> 
+                                       <small  >Please enter your race!</small>
+                                    </div>
+                                    <div class="col-12">
+                                       <label for="email" class="form-label">Email</label> <input type="email" name="email" class="form-control" id="email"  formControlName="email"  placeholder="Enter your Email" required>
+                                        <!-- <div class="invalid-feedback" *ngIf= "patientdetails.hasError('required','email')">Please enter Email!</div>  -->
+                                        <div class="invalid-feedback" >Please enter your email address</div> 
+                                       <small >Please enter your email address</small>
+                             
+                                    </div>
+                                   <div class="col-12">
+                                      <label for="ethnicity" class="form-label">Ethnicity</label> <input type="text" formControlName="ethnicity" name="ethnicity" class="form-control" id="ethnicity" placeholder="Enter ethnicity" required>
+                                      <!-- <div class="invalid-feedback">Please enter Ethnicity!</div> -->
+                                          <div class="invalid-feedback" >Please enter your email address</div>
+                                       <small >Please enter your email address</small> 
+                                   </div>
+                                 </div>
+                                 <div class="col-12">
+                                   <label for="languages" class="form-label">Languages Known</label> <input type="text" formControlName="languages" name="languages" class="form-control" placeholder="Enter languages known" id="languages" required>
+                                   <!-- <div class="invalid-feedback" placeholder="Enter Languages Known">Please Enter Languages Known</div> -->
+                                   <div class="invalid-feedback" >Please enter languages</div>
+                                   <small >Please enter languages</small>  
+
+                                </div>
+                                 <div class="col-12">
+                                    <label for="address" class="form-label">Address</label>&nbsp; 
+                                    <textarea formControlName="address" id="address" name="address" rows="4" cols="50" class="form-control"  placeholder="Enter your Address"required></textarea> 
+                                   
+                                    <!-- <div class="invalid-feedback" *ngIf= "patientdetails.hasError('required','address')"placeholder="Please enter your Address">Please enter your Address!</div>  -->
+                                    <div class="invalid-feedback" >Please enter a address</div>
+                                    <small >Please enter a address</small>  
+                                      <!-- <small *ngIf= "patientdetails.controls['address'].dirty && patientdetails.hasError('minlength','address')">Please add  valid address</small> 
+                                      <small *ngIf= "patientdetails.controls['address'].dirty && patientdetails.hasError('maxlength','address')">Please add  valid address</small> -->
+                                 </div>
+                                 <div class="col-12"> <button class="btn btn-primary w-15"  type="submit">Save</button>
+                                 <!-- <button class="btn btn-primary btn-space mx-2 w-20" type="button" (click)="onNext()">Next Section</button>
+         -->
+                                 </div>
+                              </form>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+         </div>
+    </section>
+</main>
+
+
+<!-- <app-footer> </app-footer> -->

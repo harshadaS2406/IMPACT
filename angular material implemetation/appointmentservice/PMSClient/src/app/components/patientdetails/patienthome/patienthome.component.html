@@ -1,0 +1,55 @@
+<app-header></app-header>
+<main id="main" class="main">
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-body">
+                        <a id="demographic" (click)="displayPatientDetails('demographic')">
+                            <h5 class="card-title">Demographics</h5>
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="emergency" (click)="displayPatientDetails('emergency')">
+                        <div class="card-body">
+                            <h5 class="card-title">Emergency Contact</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="allergy" (click)="displayPatientDetails('allergy')">
+                        <div class="card-body">
+                            <h5 class="card-title">Allergy Details</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div>
+            <app-demographic *ngIf="isDemographic"></app-demographic>
+            <app-emergency *ngIf="isEmergency"></app-emergency>
+            <app-allergy *ngIf="isAllergy"></app-allergy>
+
+            <!-- <app-viewnotes *ngIf="isViewNote"></app-viewnotes> -->
+        </div>
+    </section>
+</main>
+<app-footer class="footer"></app-footer>

@@ -1,0 +1,35 @@
+body{
+    overflow-y: scroll;
+    
+}
+.card-icon{
+    font-size: 36px;
+    line-height: 0;
+    width: 70px;
+    height: 70px;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+.card-icon-notes{
+    font-size: 50px;
+    
+}
+/* .align-items-center{
+    margin-left: 10% !important;
+} */
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   padding: 0px;
+   position: absolute;
+}
+
+.card{
+	width: 20rem; 
+	border-radius: 60px;
+	height: 11rem;
+    background-color: azure;
+
+}

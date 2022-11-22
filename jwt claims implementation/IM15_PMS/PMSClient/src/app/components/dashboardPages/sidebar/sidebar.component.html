@@ -1,0 +1,36 @@
+<aside id="sidebar" class="sidebar">
+    <ul class="sidebar-nav" id="sidebar-nav">
+       <li class="nav-item"> <a class="nav-link " routerLink="/pages-dashboard/dashboard"> <i class="bi bi-grid"></i> <span>User Dashboard</span> </a></li>
+       <li class="nav-heading">Patient Registration</li>
+       <li class="nav-item"> <a class="nav-link collapsed" routerLink="/pages-patientregistration/demographic"> <i class="bi bi-person"></i> <span>Registration</span> </a></li>
+
+       <li class="nav-item"> <a class="nav-link collapsed" routerLink="/patient-visit"> <i class="bi bi-person"></i> <span>Patient Visit</span> </a></li>
+
+       
+       <li class="nav-heading">Inbox Module</li>
+       <li class="nav-item">
+          <a class="nav-link collapsed" data-bs-target="#forms-nav-schedule" data-bs-toggle="collapse" href="#"> <i class="bx bx-calendar"></i><span>Scheduler</span><i class="bi bi-chevron-down ms-auto"></i> </a>
+          <ul id="forms-nav-schedule" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+             <li> <a routerLink="/pages-inbox/newappointment"> <i class="bi bi-circle"></i><span>New Appointment</span> </a></li>
+             <li> <a routerLink="/pages-inbox/appointmentscheduler"> <i class="bi bi-circle"></i><span>Appointment Schedule</span> </a></li>
+             <li> <a routerLink="/pages-inbox/appointmentlist"> <i class="bi bi-circle"></i><span>Appointment List</span> </a></li>
+          </ul>
+          <a class="nav-link collapsed" data-bs-target="#forms-nav-notes" data-bs-toggle="collapse" href="#"> <i class="bi bi-journal-text"></i><span>Notes</span><i class="bi bi-chevron-down ms-auto"></i> </a>
+          <ul id="forms-nav-notes" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+             <li> <a routerLink="/pages-inbox/sendnotes"> <i class="bi bi-circle"></i><span>Send New Note</span> </a></li>
+             <li> <a routerLink="/pages-inbox/viewnotes"> <i class="bi bi-circle"></i><span>View Sent Notes</span> </a></li>
+             <li> <a routerLink="/pages-inbox/receivednotes"> <i class="bi bi-circle"></i><span>Received Notes</span> </a></li>
+           </ul>
+       </li>
+       <li class="nav-heading">Admin Module</li>
+       <li class="nav-item">
+          <a class="nav-link collapsed" data-bs-target="#forms-nav-employee" data-bs-toggle="collapse" href="#"> <i class="ri ri-account-circle-fill"></i><span>Employees</span><i class="bi bi-chevron-down ms-auto"></i> </a>
+          <ul id="forms-nav-employee" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+             <li> <a routerLink="/pages-admin/adminregistration" > <i class="bi bi-circle"></i><span>Add Employee</span> </a></li>
+             <li> <a routerLink="/pages-admin/employeecomponent"> <i class="bi bi-circle"></i><span>Employee List</span> </a></li>
+          </ul>
+       </li>
+       <li class="nav-item"> <a class="nav-link collapsed" routerLink="/pages-faq"> <i class="bi bi-question-circle"></i> <span>F.A.Q</span> </a></li>
+   
+      </ul>
+ </aside>

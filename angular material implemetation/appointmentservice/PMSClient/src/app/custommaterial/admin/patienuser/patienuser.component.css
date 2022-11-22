@@ -1,0 +1,49 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 80%;
+  }
+  
+  td, th {
+    width: 15%;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  mat-icon {
+    outline: none ;
+  }
+  
+
+  .adduser
+  {
+    float: right ;
+  }
+
+  .btnadd { 
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+
+  }
+
+  .container
+  {
+    max-width: 1500px;
+    margin: 0 auto;
+  }
+
+
+  .btnActivate
+  {
+    background-image: linear-gradient( 135deg, #92FFC0 10%, #002661 100%);  }
+  .btnDeActivate
+ {
+  background-image: linear-gradient( 135deg, #3B2667 10%, #BC78EC 100%); }
+
+.btnBlock
+{
+  background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);}

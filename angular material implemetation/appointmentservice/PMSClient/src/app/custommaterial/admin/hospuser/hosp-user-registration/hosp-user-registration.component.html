@@ -1,0 +1,120 @@
+<div>
+    <h1 class="header"> Hospital User Form</h1>
+    <div class="example-container">
+    <form [formGroup]="HospUserForm" (ngSubmit)="AddUser()" style="overflow-y: scroll">
+
+
+        <table class="example-form" cellspacing="0">
+            <tr>
+                <td>
+
+                    <mat-label class="example-full-width">Title</mat-label>
+                    <mat-radio-group aria-labelledby="example-radio-group-label" class="example-radio-group"
+                        formControlName='title'>
+                        <mat-radio-button class="example-radio-button" *ngFor="let title of titles" [value]="title">
+                            {{title}}
+                        </mat-radio-button>
+                    </mat-radio-group>
+                </td>
+            </tr>
+            <br>
+            <tr>
+                <td>
+                    <mat-form-field class="example-full-width">
+                        <mat-label>First Name</mat-label>
+                        <input matInput formControlName='fname'>
+                        <mat-icon matSuffix>mode_edit</mat-icon>
+
+                    </mat-form-field>
+                </td>
+
+            </tr>
+            <br>
+            <tr>
+                <mat-form-field class="example-full-width">
+                    <mat-label>Last Name</mat-label>
+                    <input matInput formControlName='lname'>
+                </mat-form-field>
+            </tr>
+
+            <br>
+            <tr>
+                <td>
+                    <mat-form-field class="example-full-width">
+                        <mat-label>Email</mat-label>
+                        <input type="email" matInput formControlName='email'>
+                        <mat-icon matSuffix> email</mat-icon>
+
+                    </mat-form-field>
+                </td>
+                <td>
+
+                </td>
+            </tr>
+            <tr>
+                <mat-form-field>
+                    <mat-label>DOB</mat-label>
+                    <input matInput [matDatepicker]="picker" placeholder="DOB" formControlName="dob">
+                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                    <mat-datepicker #picker></mat-datepicker>
+                </mat-form-field>
+            </tr>
+            <br>
+            <tr>
+                <mat-form-field>
+
+                    <mat-label>Role</mat-label>
+                    <mat-select formControlName='role'>
+                        <mat-option *ngFor="let role of roles" [value]="role.RoleID">
+                            {{role.RoleName}}
+                        </mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </tr>
+            <tr>
+                <mat-form-field>
+
+                    <mat-label>Gender</mat-label>
+                    <mat-select formControlName='gender'>
+                        <mat-option *ngFor="let gender of genders" [value]="gender.GenderID">
+                            {{gender.GenderName}}
+                        </mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </tr>
+            <tr>
+                <mat-form-field class="example-full-width">
+                    <mat-label>Employee ID</mat-label>
+                    <input matInput formControlName='empid'>
+                </mat-form-field>
+            </tr>
+            <br>
+            <tr>
+                <mat-form-field class="example-full-width">
+                    <mat-label>Contact No</mat-label>
+                    <span matPrefix>+1 &nbsp;</span>
+                    <input type="tel" matInput placeholder="555-555-1234" formControlName='contactno'>
+                    <mat-icon matSuffix>mode_edit</mat-icon>
+                </mat-form-field>
+            </tr>
+            <br>
+            <tr>
+                <mat-form-field class="example-full-width" *ngIf="showpasswordfield">
+                    <mat-label>Password</mat-label>
+                    <input matInput placeholder="Password" [type]="hide ? 'password' : 'text'"
+                        formControlName='password'>
+                    <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+                </mat-form-field>
+            </tr>
+
+        </table>
+        <br>
+        <div>
+        </div>
+        <div>
+            <button type="submit" id="submit" class="btnsubmit">Submit</button> &nbsp;
+
+            <button type="close" id="close" class="btnclose" (click)="closeModal()">Close</button>
+        </div>
+    </form>
+</div>

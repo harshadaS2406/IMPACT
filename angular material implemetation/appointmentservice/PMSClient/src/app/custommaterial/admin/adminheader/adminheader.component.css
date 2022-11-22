@@ -1,0 +1,35 @@
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  .mat-tab-group {
+    margin-bottom: 48px;
+  }
+  
+ /** No CSS for this example */
+::ng-deep .mat-tab-list .mat-tab-labels .mat-tab-label-active{
+  color : white;
+  background-color:  #13547a; 
+  }
+  
+  ::ng-deep .mat-tab-list .mat-tab-labels.mat-tab-label-inactive {
+  color : gray;
+  background-color: white;
+  }
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  mat-icon {
+    outline: none ;
+  }
+  
+  
+  

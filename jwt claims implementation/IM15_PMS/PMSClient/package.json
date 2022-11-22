@@ -1,0 +1,47 @@
+{
+  "name": "pmsclient",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^14.2.0",
+    "@angular/common": "^14.2.0",
+    "@angular/compiler": "^14.2.0",
+    "@angular/core": "^14.2.0",
+    "@angular/forms": "^14.2.0",
+    "@angular/material": "^7.0.0",
+    "@angular/platform-browser": "^14.2.0",
+    "@angular/platform-browser-dynamic": "^14.2.0",
+    "@angular/router": "^14.2.0",
+    "@syncfusion/ej2": "^20.3.56",
+    "@syncfusion/ej2-angular-schedule": "^20.3.52",
+    "@syncfusion/ej2-material-theme": "~20.3.52",
+    "angular-calendar-scheduler": "^14.2.0",
+    "angular-reactive-form": "^0.5.8",
+    "bootstrap": "^5.2.2",
+    "daypilot-pro-angular": "https://npm.daypilot.org/daypilot-pro-angular/trial/2022.4.5457.tar.gz",
+    "rxjs": "~7.5.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^12.2.13",
+    "@angular/cli": "^15.0.0",
+    "@angular/compiler-cli": "^14.2.0",
+    "@types/jasmine": "~4.0.0",
+    "@types/jquery": "^3.5.14",
+    "jasmine-core": "~4.3.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.0.0",
+    "typescript": "~4.7.2"
+  }
+}

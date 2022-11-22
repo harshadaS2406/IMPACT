@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="./login.component.css">
+
+</head>
+<body>
+
+     
+
+<!-- partial:index.partial.html -->
+<div id="login-form-wrap">
+
+
+
+                     <h2 style="color: #094f75;font-family:'Times New Roman', Times, serif;">CT General Hospital</h2>
+                    <h3 style="color: #094f75;font-family:'Times New Roman', Times, serif;">Login</h3>  <br>
+
+  <form [formGroup]="loginForm" (ngSubmit)="submitLogin()" class="row g-3 needs-validation" id="login-form">
+
+    <p>
+    <input type="text" id="username" formControlName="username" placeholder="Username" required>
+    <span *ngIf="!loginForm.get('username').valid && loginForm.get('username').touched">
+        Please enter valid username !
+    </span>
+    <!-- <i class="validation"><span></span><span></span></i> -->
+    </p>
+    <p>
+    <input type="password" id="password" formControlName="password" placeholder="Password" required>
+    <span *ngIf="!loginForm.get('password').valid && loginForm.get('password').touched">
+        Please enter valid password !
+    </span>
+    </p>
+    <p><a routerLink='/ForgotPassword' style="color: #329dd5">Forgot Password?</a></p>
+    <p>
+    <button type="submit" id="login" class="btn btn-primary" [disabled]="!loginForm.valid">Submit</button>
+    <!-- <span>{{loginattemptsremaining}}</span> -->
+    <br>
+    <span style="color:red;">{{invalidcredentailsmsg}}</span>
+    </p>
+  </form>
+
+  <div>
+  <p>Not a Registerd User? <a routerLink='/' style="color: #329dd5">Create Account</a></p>
+</div>
+<p>
+<br>
+</p>
+</div><!--login-form-wrap-->
+<!-- partial -->
+  
+</body>
+</html>

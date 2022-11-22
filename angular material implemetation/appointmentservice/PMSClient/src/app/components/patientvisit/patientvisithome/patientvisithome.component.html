@@ -1,0 +1,90 @@
+
+<app-header></app-header>
+<main id="main" class="main">
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-body">
+                        <a id="patientvisitdetails" (click)="displayPatientVisit('patientvisitdetails')">
+                            <h5 class="card-title">Patient Visit Details</h5>
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="patientdiagnosis" (click)="displayPatientVisit('patientdiagnosis')">
+                        <div class="card-body">
+                            <h5 class="card-title">Patient Diagnosis</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="patientmedication" (click)="displayPatientVisit('patientmedication')">
+                        <div class="card-body">
+                            <h5 class="card-title">Patient Medication</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card">
+                    <a id="patientprocedure" (click)="displayPatientVisit('patientprocedure')">
+                        <div class="card-body">
+                            <h5 class="card-title">Patient Procedure</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+               <div class="col-lg-4">
+                <div class="card">
+                    <a id="patientvitalsigns" (click)="displayPatientVisit('patientvitalsigns')">
+                        <div class="card-body">
+                            <h5 class="card-title">Patient Vital Signs</h5>
+                            <div
+                                class="card-icon-notes rounded-circle d-flex align-items-center justify-content-center">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+
+        </div>
+        <div>
+            <app-patientvisitdetails *ngIf="ispatientvisitdetails"></app-patientvisitdetails>
+            <app-patientvisitdiagnosis *ngIf="ispatientdiagnosis"></app-patientvisitdiagnosis>
+            <app-patientvisitmedication *ngIf="ispatientmedication"></app-patientvisitmedication>
+            <app-patientvisitprocedure *ngIf="ispatientprocedure"></app-patientvisitprocedure>
+            <app-patientvisitvitalsigns *ngIf="ispatientvitalsigns"></app-patientvisitvitalsigns>
+
+            <!-- <app-viewnotes *ngIf="isViewNote"></app-viewnotes> -->
+        </div>
+    </section>
+</main>
+<app-footer class="footer"></app-footer>
